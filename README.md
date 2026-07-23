@@ -50,7 +50,7 @@ fun_fact: Toujours en train d'apprendre de nouvelles techs
   <tr>
     <td width="50%" valign="top">
       <h3>🧱 <a href="https://github.com/Kaneeekii/Clean-s-Ram---By-Kaneeekii-">Clean'sRam - By Kaneeekii</a></h3>
-      Pack de mods/ressources pour Minecraft 1.21.1 Fabric<br/>
+      Nettoie ta RAM Avec toute sécurité<br/>
       <img src="https://img.shields.io/badge/Minecraft-1.21.1-8B0000?style=flat-square&logo=minecraft&logoColor=white"/>
       <img src="https://img.shields.io/badge/Loader-Fabric-1a0000?style=flat-square"/>
     </td>
