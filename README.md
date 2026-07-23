@@ -22,9 +22,9 @@
 ```yaml
 nom: Kaneeekii
 role: Développeur touche-à-tout — plugins, mods & applications
-Projets: Mods & resource packs Minecraft (Fabric)
-Projets : Applications / outils en dehors du jeu
-Toujours en train d'apprendre de nouvelles techs :p 
+actuellement: Mods & resource packs Minecraft (Fabric)
+aussi: Applications / outils en dehors du jeu
+fun_fact: Toujours en train d'apprendre de nouvelles techs
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2&width=1200" width="100%"/>
@@ -46,23 +46,34 @@ Toujours en train d'apprendre de nouvelles techs :p
 
 ## 🎮 Projets en avant
 
-<div align="center">
-
-<a href="https://github.com/Kaneeekii/Mods-Ressources-Pack-for-Minecraft-1.21.1-fabric-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaneeekii&repo=Mods-Ressources-Pack-for-Minecraft-1.21.1-fabric-&theme=dracula&border_color=8B0000&bg_color=0d1117" />
-</a>
-<a href="https://github.com/Kaneeekii/Fps-Counter-For-Fabric-1.21.3-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaneeekii&repo=Fps-Counter-For-Fabric-1.21.3-&theme=dracula&border_color=8B0000&bg_color=0d1117" />
-</a>
-<br/>
-<a href="https://github.com/Kaneeekii/Pack-Minecraft-survie-1.21.3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaneeekii&repo=Pack-Minecraft-survie-1.21.3&theme=dracula&border_color=8B0000&bg_color=0d1117" />
-</a>
-<a href="https://github.com/Kaneeekii/bdt-resourcepack">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaneeekii&repo=bdt-resourcepack&theme=dracula&border_color=8B0000&bg_color=0d1117" />
-</a>
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧱 <a href="https://github.com/Kaneeekii/Mods-Ressources-Pack-for-Minecraft-1.21.1-fabric-">Mods-Ressources-Pack-Fabric-1.21.1</a></h3>
+      Pack de mods/ressources pour Minecraft 1.21.1 Fabric<br/>
+      <img src="https://img.shields.io/badge/Minecraft-1.21.1-8B0000?style=flat-square&logo=minecraft&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Loader-Fabric-1a0000?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 <a href="https://github.com/Kaneeekii/Fps-Counter-For-Fabric-1.21.3-">Fps-Counter-For-Fabric-1.21.3</a></h3>
+      Mod affichant le compteur de FPS pour Fabric<br/>
+      <img src="https://img.shields.io/badge/Minecraft-1.21.3-8B0000?style=flat-square&logo=minecraft&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Loader-Fabric-1a0000?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌲 <a href="https://github.com/Kaneeekii/Pack-Minecraft-survie-1.21.3">Pack-Minecraft-survie-1.21.3</a></h3>
+      Pack orienté survie pour Minecraft 1.21.3<br/>
+      <img src="https://img.shields.io/badge/Minecraft-1.21.3-8B0000?style=flat-square&logo=minecraft&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 <a href="https://github.com/Kaneeekii/bdt-resourcepack">bdt-resourcepack</a></h3>
+      Resource pack personnalisé<br/>
+      <img src="https://img.shields.io/badge/Type-Resource%20Pack-8B0000?style=flat-square&logo=minecraft&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2&width=1200" width="100%"/>
 
