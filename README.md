@@ -49,7 +49,7 @@ fun_fact: Toujours en train d'apprendre de nouvelles techs
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🧱 <a href="https://github.com/Kaneeekii/Mods-Ressources-Pack-for-Minecraft-1.21.1-fabric-">Mods-Ressources-Pack-Fabric-1.21.1</a></h3>
+      <h3>🧱 <a href="https://github.com/Kaneeekii/Clean-s-Ram---By-Kaneeekii-">Mods-Ressources-Pack-Fabric-1.21.1</a></h3>
       Pack de mods/ressources pour Minecraft 1.21.1 Fabric<br/>
       <img src="https://img.shields.io/badge/Minecraft-1.21.1-8B0000?style=flat-square&logo=minecraft&logoColor=white"/>
       <img src="https://img.shields.io/badge/Loader-Fabric-1a0000?style=flat-square"/>
