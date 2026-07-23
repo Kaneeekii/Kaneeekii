@@ -81,10 +81,13 @@ fun_fact: Toujours en train d'apprendre de nouvelles techs
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kaneeekii&show_icons=true&theme=dracula&border_color=8B0000&bg_color=0d1117&icon_color=E01B1B&title_color=E01B1B&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaneeekii&theme=dracula&border=8B0000&background=0d1117&ring=E01B1B&fire=E01B1B&currStreakLabel=E01B1B" height="165"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FKaneeekii&label=Repos%20publics&query=%24.public_repos&color=8B0000&style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/github/followers/Kaneeekii?label=Followers&style=for-the-badge&color=8B0000&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FKaneeekii&label=Following&query=%24.following&color=8B0000&style=for-the-badge&logo=github&logoColor=white"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaneeekii&layout=compact&theme=dracula&border_color=8B0000&bg_color=0d1117&title_color=E01B1B&text_color=c9d1d9" height="165"/>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FKaneeekii&label=Membre%20depuis&query=%24.created_at&color=1a0000&style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 
