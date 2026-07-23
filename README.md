@@ -22,9 +22,9 @@
 ```yaml
 nom: Kaneeekii
 role: Développeur touche-à-tout — plugins, mods & applications
-actuellement: Mods & resource packs Minecraft (Fabric)
-aussi: Applications / outils en dehors du jeu
-fun_fact: Toujours en train d'apprendre de nouvelles techs
+Projets: Mods & resource packs Minecraft (Fabric)
+Projets : Applications / outils en dehors du jeu
+Toujours en train d'apprendre de nouvelles techs :p 
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2&width=1200" width="100%"/>
