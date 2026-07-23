@@ -20,11 +20,11 @@
 ## 🩸 À propos de moi
 
 ```yaml
-Developper : Kaneeekii
-Role: Développeur touche-à-tout — plugins, mods & applications
-Projets: Mods & resource packs Minecraft (Fabric)
-Applications / outils en dehors du jeu
-Toujours en train d'apprendre de nouvelles techs :p
+nom: Kaneeekii
+role: Développeur touche-à-tout — plugins, mods & applications
+actuellement: Mods & resource packs Minecraft (Fabric)
+aussi: Applications / outils en dehors du jeu
+fun_fact: Toujours en train d'apprendre de nouvelles techs
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2&width=1200" width="100%"/>
@@ -83,9 +83,9 @@ Toujours en train d'apprendre de nouvelles techs :p
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/Discord-1a0000?style=for-the-badge&logo=discord&logoColor=E01B1B" /></a>
-<a href="#"><img src="https://img.shields.io/badge/TikTok-1a0000?style=for-the-badge&logo=tiktok&logoColor=E01B1B" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Patreon-1a0000?style=for-the-badge&logo=patreon&logoColor=E01B1B" /></a>
+<a href="https://discord.gg/N7C2RGu4W"><img src="https://img.shields.io/badge/Discord-1a0000?style=for-the-badge&logo=discord&logoColor=E01B1B" /></a>
+<a href="https://www.tiktok.com/@kaneeekii_"><img src="https://img.shields.io/badge/TikTok-1a0000?style=for-the-badge&logo=tiktok&logoColor=E01B1B" /></a>
+<a href="https://www.patreon.com/cw/Kaneeekii"><img src="https://img.shields.io/badge/Patreon-1a0000?style=for-the-badge&logo=patreon&logoColor=E01B1B" /></a>
 
 </div>
 
