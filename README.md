@@ -51,8 +51,8 @@ fun_fact: Toujours en train d'apprendre de nouvelles techs
     <td width="50%" valign="top">
       <h3>🧱 <a href="https://github.com/Kaneeekii/Clean-s-Ram---By-Kaneeekii">Clean'sRam - By Kaneeekii</a></h3>
       Nettoie ta RAM en toute sécurité<br/>
-      <img src="https://img.shields.io/badge/Minecraft-1.21.1-8B0000?style=flat-square&logo=minecraft&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Loader-Fabric-1a0000?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Python-8B0000?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Application-Windows-1a0000?style=flat-square&logo=windows&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
       <h3>📈 <a href="https://github.com/Kaneeekii/Fps-Counter-For-Fabric-1.21.3-">Fps-Counter-For-Fabric-1.21.3</a></h3>
