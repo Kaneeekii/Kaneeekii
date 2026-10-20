@@ -1,0 +1,14 @@
+# Dépendances et build
+node_modules/
+dist/
+
+# Secrets : jamais commités
+.env
+.env.*
+
+# Fichiers système / éditeurs
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
