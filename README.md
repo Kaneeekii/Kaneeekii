@@ -134,6 +134,7 @@ fun_fact: toujours en train
 <img src="https://img.shields.io/badge/C-8B0000?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-1a0000?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/Blueprint-8B0000?style=for-the-badge&logo=unrealengine&logoColor=white" />
+<img src="https://img.shields.io/badge/Lua%20(Roblox)-1a0000?style=for-the-badge&logo=lua&logoColor=white" />
 
 </div>
 
