@@ -35,6 +35,7 @@ fun_fact: Toujours en train d'apprendre de nouvelles techs
 
 <img src="https://img.shields.io/badge/Java-8B0000?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Fabric-1a0000?style=for-the-badge&logo=minecraft&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-1a0000?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-8B0000?style=for-the-badge&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-8B0000?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1a0000?style=for-the-badge&logo=css3&logoColor=white" />
@@ -49,7 +50,7 @@ fun_fact: Toujours en train d'apprendre de nouvelles techs
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🧱 <a href="https://github.com/Kaneeekii/Clean-s-Ram---By-Kaneeekii">Clean'sRam - By Kaneeekii</a></h3>
+      <h3>🧹 <a href="https://github.com/Kaneeekii/Clean-s-Ram---By-Kaneeekii">Clean'sRam - By Kaneeekii</a></h3>
       Nettoie ta RAM en toute sécurité<br/>
       <img src="https://img.shields.io/badge/Python-8B0000?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Application-Windows-1a0000?style=flat-square&logo=windows&logoColor=white"/>
@@ -82,12 +83,12 @@ fun_fact: Toujours en train d'apprendre de nouvelles techs
 <div align="center">
 
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FKaneeekii&label=Repos%20publics&query=%24.public_repos&color=8B0000&style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/github/followers/Kaneeekii?label=Followers&style=for-the-badge&color=8B0000&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FKaneeekii&label=Following&query=%24.following&color=8B0000&style=for-the-badge&logo=github&logoColor=white"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FKaneeekii&label=Membre%20depuis&query=%24.created_at&color=1a0000&style=for-the-badge&logo=github&logoColor=white"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaneeekii&show_icons=true&hide_border=true&bg_color=0d0000&title_color=E01B1B&icon_color=E01B1B&text_color=ffffff&ring_color=8B0000&count_private=true" alt="Stats GitHub"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaneeekii&layout=compact&hide_border=true&bg_color=0d0000&title_color=E01B1B&text_color=ffffff" alt="Langages les plus utilisés"/>
 
 </div>
 
