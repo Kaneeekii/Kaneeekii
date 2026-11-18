@@ -122,7 +122,18 @@ fun_fact: toujours en train
 <br/><br/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaneeekii&show_icons=true&hide_border=true&bg_color=0d0000&title_color=E01B1B&icon_color=E01B1B&text_color=ffffff&ring_color=8B0000" alt="Stats GitHub"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaneeekii&custom_title=Langages%20les%20plus%20utilis%C3%A9s&layout=compact&hide_border=true&bg_color=0d0000&title_color=E01B1B&text_color=ffffff" alt="Langages les plus utilisés"/>
+
+### 🧠 Langages les plus utilisés
+
+<img src="https://img.shields.io/badge/Java-8B0000?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-1a0000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-8B0000?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1a0000?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JSX-8B0000?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/TSX-1a0000?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/C-8B0000?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-1a0000?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Blueprint-8B0000?style=for-the-badge&logo=unrealengine&logoColor=white" />
 
 </div>
 
