@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,100:8B0000&height=200&section=header&text=Kaneeekii&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mod%20Creator%20%26%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/Kaneeekii">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=E01B1B&center=true&vCenter=true&width=500&lines=D%C3%A9veloppeur+Java+%2F+Fabric+%F0%9F%9F%A5;Cr%C3%A9ateur+de+mods+%26+resource+packs;Toujours+en+train+d'apprendre+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=E01B1B&center=true&vCenter=true&width=500&lines=D%C3%A9veloppeur+Java+%2F+Python+%2F+Web+%F0%9F%9F%A5;Mods%2C+plugins+%26+jeux+vid%C3%A9o;Toujours+en+train+d'apprendre+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,9 +21,10 @@
 
 ```yaml
 nom: Kaneeekii
-role: Développeur touche-à-tout — plugins, mods & applications
-actuellement: Mods & resource packs Minecraft (Fabric)
-aussi: Applications / outils en dehors du jeu
+role: Développeur touche-à-tout — mods, plugins, jeux & sites web
+minecraft: Plugins, mods Fabric & resource packs
+jeux: Unreal Engine, Roblox (Lua), mod menu GTA 5
+web: Rétro Habbo (Java / PHP), sites en React & HTML5
 fun_fact: Toujours en train d'apprendre de nouvelles techs
 ```
 
@@ -34,14 +35,50 @@ fun_fact: Toujours en train d'apprendre de nouvelles techs
 <div align="center">
 
 <img src="https://img.shields.io/badge/Java-8B0000?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Fabric-1a0000?style=for-the-badge&logo=minecraft&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-1a0000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-1a0000?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-8B0000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Lua-1a0000?style=for-the-badge&logo=lua&logoColor=white" />
+<br/>
 <img src="https://img.shields.io/badge/JavaScript-8B0000?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-8B0000?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1a0000?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-8B0000?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-1a0000?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-8B0000?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-1a0000?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-8B0000?style=for-the-badge&logo=css3&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Minecraft-1a0000?style=for-the-badge&logo=minecraft&logoColor=white" />
+<img src="https://img.shields.io/badge/Fabric-8B0000?style=for-the-badge&logo=minecraft&logoColor=white" />
+<img src="https://img.shields.io/badge/Unreal%20Engine-1a0000?style=for-the-badge&logo=unrealengine&logoColor=white" />
+<img src="https://img.shields.io/badge/Roblox-8B0000?style=for-the-badge&logo=roblox&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-1a0000?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2&width=1200" width="100%"/>
+
+## 🛠️ Ce que je fais
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⛏️ Minecraft</h3>
+      Plugins, mods Fabric et resource packs
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎮 Jeux vidéo</h3>
+      Jeux sous Unreal Engine, scripts Roblox (Lua) et mod menu GTA 5
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Web</h3>
+      Sites en React (JSX / TSX), HTML5, CSS et JavaScript
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏨 Rétro Habbo</h3>
+      Serveur rétro développé en Java et PHP
+    </td>
+  </tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2&width=1200" width="100%"/>
 
@@ -87,8 +124,8 @@ fun_fact: Toujours en train d'apprendre de nouvelles techs
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaneeekii&show_icons=true&hide_border=true&bg_color=0d0000&title_color=E01B1B&icon_color=E01B1B&text_color=ffffff&ring_color=8B0000&count_private=true" alt="Stats GitHub"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaneeekii&layout=compact&hide_border=true&bg_color=0d0000&title_color=E01B1B&text_color=ffffff" alt="Langages les plus utilisés"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaneeekii&show_icons=true&hide_border=true&bg_color=0d0000&title_color=E01B1B&icon_color=E01B1B&text_color=ffffff&ring_color=8B0000" alt="Stats GitHub"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaneeekii&custom_title=Langages%20les%20plus%20utilis%C3%A9s&layout=compact&hide_border=true&bg_color=0d0000&title_color=E01B1B&text_color=ffffff" alt="Langages les plus utilisés"/>
 
 </div>
 
