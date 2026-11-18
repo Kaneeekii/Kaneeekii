@@ -2,12 +2,6 @@
 
 <img src="assets/header.svg" width="100%" alt="Kaneeekii - Mod Creator &amp; Developer"/>
 
-<a href="https://github.com/Kaneeekii">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=E01B1B&center=true&vCenter=true&width=500&lines=D%C3%A9veloppeur+Java+%2F+Python+%2F+Web+%F0%9F%9F%A5;Mods%2C+plugins+%26+jeux+vid%C3%A9o;Toujours+en+train+d'apprendre+%E2%9A%A1" alt="Typing SVG" />
-</a>
-
-<br/>
-
 <img src="https://komarev.com/ghpvc/?username=Kaneeekii&label=Profile%20views&color=8B0000&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/Kaneeekii?label=Followers&style=for-the-badge&color=8B0000&logo=github" alt="Followers" />
 
@@ -15,7 +9,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2&width=1200" width="100%"/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🩸 À propos de moi
 
@@ -31,7 +25,7 @@ fun_fact: toujours en train
          d'apprendre
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2&width=1200" width="100%"/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## ⚙️ Stack & outils
 
@@ -56,7 +50,7 @@ fun_fact: toujours en train
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2&width=1200" width="100%"/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🛠️ Ce que je fais
 
@@ -83,7 +77,7 @@ fun_fact: toujours en train
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2&width=1200" width="100%"/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🎮 Projets en avant
 
@@ -116,7 +110,7 @@ fun_fact: toujours en train
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2&width=1200" width="100%"/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 📊 Stats GitHub
 
@@ -132,7 +126,7 @@ fun_fact: toujours en train
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2&width=1200" width="100%"/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 📫 Me contacter
 
