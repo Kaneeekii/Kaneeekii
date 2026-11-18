@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,100:8B0000&height=200&section=header&text=Kaneeekii&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mod%20Creator%20%26%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="assets/header.svg" width="100%" alt="Kaneeekii - Mod Creator &amp; Developer"/>
 
 <a href="https://github.com/Kaneeekii">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=E01B1B&center=true&vCenter=true&width=500&lines=D%C3%A9veloppeur+Java+%2F+Python+%2F+Web+%F0%9F%9F%A5;Mods%2C+plugins+%26+jeux+vid%C3%A9o;Toujours+en+train+d'apprendre+%E2%9A%A1" alt="Typing SVG" />
@@ -21,11 +21,14 @@
 
 ```yaml
 nom: Kaneeekii
-role: Développeur touche-à-tout — mods, plugins, jeux & sites web
-minecraft: Plugins, mods Fabric & resource packs
-jeux: Unreal Engine, Roblox (Lua), mod menu GTA 5
-web: Rétro Habbo (Java / PHP), sites en React & HTML5
-fun_fact: Toujours en train d'apprendre de nouvelles techs
+role: Dev touche-à-tout
+minecraft: plugins & mods
+jeux: Unreal, Roblox (Lua)
+gta: mod menu GTA 5
+web: React, HTML5, CSS, JS
+habbo: rétro (Java / PHP)
+fun_fact: toujours en train
+         d'apprendre
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2&width=1200" width="100%"/>
@@ -141,4 +144,4 @@ fun_fact: Toujours en train d'apprendre de nouvelles techs
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:1a0000&height=100&section=footer" width="100%"/>
+<img src="assets/footer.svg" width="100%" alt=""/>
